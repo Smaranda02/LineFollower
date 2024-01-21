@@ -28,3 +28,5 @@ The system control was created with the help of PID ( Proportional Integral Deri
 ## Picture of the setup 🛠
 
 ## Rally video 🏁
+ - Final lap :  https://youtu.be/FC_47IJ0Sd4?si=RVNvG5954KcFUV00
+ - Precision and speed : https://youtube.com/shorts/kN8j0FzfTgg?si=-uUWvrgluMTXll27
