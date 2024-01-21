@@ -22,7 +22,7 @@ This is was a team project created during the Robotics class at my university. T
 The system control was created with the help of PID ( Proportional Integral Derivative) tuning. Through trial and error approach combined with theoretical foundations we were able to find the best parameters to suit our designed car model. 
 
 ## Final results 🏅
- - Final time : ... seconds ⌚️
+ - Final time : 16.5 seconds ⌚️
  - Leaderboard position : 
 
 ## Picture of the setup 🛠
