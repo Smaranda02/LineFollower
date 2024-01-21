@@ -18,7 +18,7 @@ This is was a team project created during the Robotics class at my university. T
 
 
 ## The brains behind 🧠
-The system control was created with the help of PID ( Proportional Integral Derivative) tuning. Through trial and error approach combined with theoretical foundations we were able to find the best parameters to suit our designed car model. 
+The system control was created with the help of PID ( Proportional Integral Derivative) tuning. Through trial and error approach combined with theoretical foundations we were able to find the best parameters to suit our designed car model. Our car also does autocalibration at the beginning, facilitating an accurate reading of values.
 
 ## Final results 🏅
  - Final time : 16.5 seconds ⌚️
