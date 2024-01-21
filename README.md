@@ -9,13 +9,12 @@ This is was a team project created during the Robotics class at my university. T
  - L293D motor driver 
  - DC motors (2) ⚙️
  - Power source ( LiPo battery ) 🔋
- - Arduino Uno
+ - Arduino Pro Mini
  - Zip-ties
  - Wheels (2) 
  - Ball caster
  - Chassis
  - Small Breadboard
-
 
 
 ## The brains behind 🧠
@@ -26,6 +25,11 @@ The system control was created with the help of PID ( Proportional Integral Deri
  - Leaderboard position : 
 
 ## Picture of the setup 🛠
+![LineFollowerTop](https://github.com/Smaranda02/LineFollower/assets/62556419/f1df254f-3475-4401-8a0e-2d125cf60158)
+
+
+![LineFollower1](https://github.com/Smaranda02/LineFollower/assets/62556419/3d5525eb-1459-40d6-bb14-c7e12c2911f0)
+
 
 ## Rally video 🏁
  - Final lap :  https://youtu.be/FC_47IJ0Sd4?si=RVNvG5954KcFUV00
