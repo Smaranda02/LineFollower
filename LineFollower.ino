@@ -23,7 +23,6 @@ const int baseSpeed = 200;
 QTRSensors qtr;
 const int sensorCount = 6;
 int sensorValues[sensorCount];
-int sensors[sensorCount] = { 0, 0, 0, 0, 0, 0 };
 
 int calibrationTime = 4800;
 unsigned long lastCalibration = 0;
